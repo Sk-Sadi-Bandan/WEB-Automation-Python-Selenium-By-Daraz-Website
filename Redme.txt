@@ -1,0 +1,15 @@
+Download Python
+
+Goto VS Code -> Install Python
+Install Code Runner for code run.
+
+click on file -> Preference -> Setting -> search "code runner: run in terminal" -> Click on Tik mark
+
+Goto local browser:
+Create a folder "Python Selenium" -> Create another folder "feature" -> Create another folder "steps" -> Create 2 files "home.py" & "home.feature"
+
+Goto terminal:
+Install Selenium- pip install selenium
+Install Behave- pip install behave
+
+Code Run: behave home.feature
